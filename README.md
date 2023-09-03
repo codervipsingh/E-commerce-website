@@ -1,15 +1,15 @@
 # E-commerce-website
-> h5 tag for top heading 
-> nav tag for naving area
-> li tag for listing
-> input for search box and span for same line
-> section tag defines a section in a document
-> p tag for paragraph
-> div tag defines a division
-> class attribute  used to point to a class in a style sheet
-> img tag is used to embed an image in an HTML page.
-> * for universal selection
-> background-image in css for showing image our web background
+ #h5 tag for top heading 
+ #nav tag for naving area
+ #li tag for listing
+ #input for search box and span for same line
+ #section tag defines a section in a document
+ #p tag for paragraph
+ #div tag defines a division
+ #class attribute  used to point to a class in a style sheet
+ #img tag is used to embed an image in an HTML page.
+ #for universal selection
+ #background-image in css for showing image our web background
 
 
 ![1](https://github.com/codervipsingh/E-commerce-website/assets/120233689/c3f851c6-b1df-4bb1-b89e-450380473344)
